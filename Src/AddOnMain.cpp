@@ -79,6 +79,7 @@ static GSErrCode MenuCommandHandler (const API_MenuParams *menuParams)
 			}
 			break;
 	}
+
 	return NoError;
 }
 
